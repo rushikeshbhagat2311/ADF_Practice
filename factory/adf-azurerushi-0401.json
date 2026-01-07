@@ -1,0 +1,9 @@
+{
+	"name": "adf-azurerushi-0401",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d8b085c7-a81b-44ec-b247-dd7ac475aaad",
+		"tenantId": "276a7b26-41c8-4699-9afa-62230ce2a2ce"
+	}
+}
