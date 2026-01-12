@@ -1,0 +1,16 @@
+{
+	"name": "ls_AzureDataLakeStorage_task_1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://adls2saazurerushi0401.dfs.core.windows.net/",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJiZmI1Y2IxYS04NThhLTQ3MjYtOTZhNS0wNTMyZGJiMWRhNWQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "local-ir",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
