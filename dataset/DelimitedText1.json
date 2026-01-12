@@ -1,10 +1,6 @@
 {
 	"name": "DelimitedText1",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "lsadls2rushi0401",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
